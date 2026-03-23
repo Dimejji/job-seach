@@ -4,7 +4,7 @@ import JobsView from "../views/JobsView.vue";
 import JobView from "../views/JobView.vue";
 import EditJobView from "../views/EditJobview.vue"
 import AddJobView from "../views/AddJobView.vue";
-import NotFoundView from "../views/NotFoundView.vue";
+import NotFoundView from "../views/NotFoundview.vue";
 
 
 const routes = [
